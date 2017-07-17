@@ -1,0 +1,21 @@
+{
+  "name": "wiki_index_downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "download": "^6.2.5",
+    "node-cmd": "^3.0.0",
+    "node-run-cmd": "^1.0.1",
+    "request": "^2.81.0",
+    "request-progress": "^3.0.0"
+  }
+}
