@@ -3,7 +3,7 @@ Grabs files from http://download.kiwix.org/wp1/
 
 #### How to use
 
-simply run `node index.js`. You must have a node version of 6 or above!
+simply run `npm install` followed by `node index.js`. You must have a node version of 6 or above!
 
 #### Example use cases:
 
